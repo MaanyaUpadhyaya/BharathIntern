@@ -12,7 +12,7 @@ The repository is organized as follows:
 | Index | Content                |
 |-------|---------------------   |
 | 1     | Task1: Portfolio: https://github.com/MaanyaUpadhyaya/BharathIntern/tree/main/Porfolio     |
-| 2     | Task2: Temperature Converter: |
+| 2     | Task2: Temperature Converter: https://github.com/MaanyaUpadhyaya/BharathIntern/tree/main/temperature |
 | 3     | Task3: Netflix Homepage clone:  |
 
 
