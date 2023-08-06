@@ -9,8 +9,11 @@ Welcome to my projects repository! This repository contains three different proj
 The repository is organized as follows:
 
 
-
-
+| Index | Content                |
+|-------|---------------------   |
+| 1     | Task1: Portfolio:      |
+| 2     | Task2: Temperature Converter:  |
+| 3     | Task3: Netflix Homepage clone:  |
 
 
 ### Task1 :
