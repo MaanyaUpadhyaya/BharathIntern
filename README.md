@@ -12,6 +12,7 @@ The repository is organized as follows:
 
 
 
+
 ### Task1 :
 
 The Portfolio project showcases my personal website where you can learn more about me, my skills, experiences, and projects. This project is designed to introduce myself to the world in a visually appealing way.
@@ -28,13 +29,8 @@ The Netflix Home Page Clone project is an attempt to replicate the popular strea
 Feel free to explore each project's directory for more detailed information, including how to set up and run the projects locally.
 
 
+## Running the Projects:
 
-## Running the Projects
+You can access the each project by clonong the repository or by downloading the folder to your sysytems.
 
-Each project directory contains its own README file with specific instructions on how to run and use the project. Navigate to the respective directories for detailed information.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
-
-Happy coding!
