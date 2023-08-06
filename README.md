@@ -31,6 +31,13 @@ Feel free to explore each project's directory for more detailed information, inc
 
 ## Running the Projects:
 
-You can access the each project by clonong the repository or by downloading the folder to your sysytems.
+You can access the each project by clonong the repository or by downloading the folder to your systems.
+
+
+| Index | Projects  |
+|-------|-----------|
+| 1     | Portfolio 👉🏻    |
+| 2     | Temperature Converter 👉🏻  |
+| 3     | Netflix homepage clone 👉🏻 |
 
 
