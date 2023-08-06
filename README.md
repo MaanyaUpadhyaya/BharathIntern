@@ -36,8 +36,8 @@ You can access the each project by clonong the repository or by downloading the 
 
 | Index | Projects  |
 |-------|-----------|
-| 1     | Portfolio 👉🏻    |
-| 2     | Temperature Converter 👉🏻  |
-| 3     | Netflix homepage clone 👉🏻 |
+| 1     | Portfolio 👉🏻 run index.html   |
+| 2     | Temperature Converter 👉🏻 run demo.html  |
+| 3     | Netflix homepage clone 👉🏻 run index.html |
 
 
