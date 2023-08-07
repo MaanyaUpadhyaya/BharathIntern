@@ -36,7 +36,7 @@ Feel free to explore each project's directory for more detailed information, inc
 
 ## Running the Projects:
 
-You can access the each project by clonong the repository or by downloading the folder to your systems.
+You can access the each project by cloning  the repository or by downloading the folder to your systems.
 
 
 | Index | Projects  |
