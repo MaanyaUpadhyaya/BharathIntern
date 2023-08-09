@@ -45,4 +45,5 @@ You can access the each project by cloning  the repository or by downloading the
 | 2     | Temperature Converter 👉🏻 run demo.html  |
 | 3     | Netflix homepage clone 👉🏻 run index.html |
 
+### The complete demonstration of all the 3 [rojects are available on my LinkedIn. Please check out for the results.
 
